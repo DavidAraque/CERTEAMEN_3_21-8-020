@@ -1,0 +1,6 @@
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_3\bin\Debug\EJERCICIO_3.exe.config
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_3\bin\Debug\EJERCICIO_3.exe
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_3\bin\Debug\EJERCICIO_3.pdb
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_3\obj\Debug\EJERCICIO_3.csproj.CoreCompileInputs.cache
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_3\obj\Debug\EJERCICIO_3.exe
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_3\obj\Debug\EJERCICIO_3.pdb

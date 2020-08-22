@@ -1,0 +1,7 @@
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_2\obj\Debug\EJERCICIO_2.csprojAssemblyReference.cache
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_2\obj\Debug\EJERCICIO_2.csproj.CoreCompileInputs.cache
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_2\bin\Debug\EJERCICIO_2.exe.config
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_2\bin\Debug\EJERCICIO_2.exe
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_2\bin\Debug\EJERCICIO_2.pdb
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_2\obj\Debug\EJERCICIO_2.exe
+C:\Users\da_ar\source\repos\CERTEAMEN_3_21-8-020\EJERCICIO_2\obj\Debug\EJERCICIO_2.pdb
